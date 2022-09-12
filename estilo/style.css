@@ -8,6 +8,7 @@
 :root {
     --font1: Arial, Helvetica, sans-serif;
 }
+
 html body {
     background-color: #cfcdcb;
     min-height: 100vh;
@@ -34,9 +35,10 @@ main a{
     padding: 2px 6px;
     border-radius: 5px;
 }
+
 main a:hover{
     text-decoration: underline;
-    color: var(--cor6);
+    color: black;
 }
 section.imagem {
     text-align: center;
